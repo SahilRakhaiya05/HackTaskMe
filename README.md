@@ -1,6 +1,6 @@
-# Hackathon Management Platform 🎉
+# HackTask Me🎉
 
-Welcome to the **Hackathon Management Platform**! This application is designed to help team leaders manage their diverse teams effectively during hackathons. With features for task management, an AI chatbot for assistance, and a blog for insights, this platform aims to enhance collaboration and productivity.
+Welcome to the **Hackathon Team Management Platform**! This application is designed to help team leaders manage their diverse teams effectively during hackathons. With features for task management, an AI chatbot for assistance, and a blog for insights, this platform aims to enhance collaboration and productivity.
 
 ## Features 🚀
 - **Team Registration:** Easily register your hackathon teams.
