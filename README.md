@@ -78,5 +78,5 @@ The Hackathon Management Platform directly addresses these challenges by providi
 ![screenshot](https://github.com/user-attachments/assets/1e1c08c5-36b6-4756-816d-37896f4785bc)
 ![Screenshot 2024-10-01 124501](https://github.com/user-attachments/assets/ef8c0bd1-7b44-4789-8373-f9a179faf6fb)
 ![Screenshot 2024-10-01 124350](https://github.com/user-attachments/assets/4764cdce-3bbc-4ed7-a1d4-3ac743c80d91)
-
+![Screenshot 2024-10-01 125416](https://github.com/user-attachments/assets/72148cdd-edc3-4fbe-a1ea-a0a05a3dea04)
 
